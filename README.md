@@ -1,4 +1,4 @@
-## Hello There! i'm Maria Eduarda Schüler, and this is my statistics
+## Hello There! i'm Maria Eduarda Schüler ;)
 <div align="center">
   <a href="https://github.com/EduardaSchuler">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardaSchuler&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -17,6 +17,6 @@
  
 <div> 
   <a href = "mailto:dudaschuler2011@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maria_eduarda_schuler" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/maria-eduarda-schuler/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
