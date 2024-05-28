@@ -4,7 +4,7 @@
 Olá! Eu sou Maria Eduarda Schüler, estudante de **Sistemas de Informação**
  na **PUCRS**.
 
-## 🚀 Tecnologias;
+## 🚀 Tecnologias
 ### Linguagens de Programação:
 - ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) (principal)
 - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) (aprendendo)
