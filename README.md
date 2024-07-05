@@ -29,4 +29,5 @@ Atualmente, estou atuando como estagiária de Desenvolvimento Full Stack na
 ## 📊 Minhas Estatísticas no GitHub
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=EduardaSchuler&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaSchuler&layout=compact)
 
