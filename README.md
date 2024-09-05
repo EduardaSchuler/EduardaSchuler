@@ -14,6 +14,7 @@ Olá! Eu sou Maria Eduarda Schüler, estudante de **Sistemas de Informação**
 ### Frameworks e Bibliotecas:
 - ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) (Java)
 - 	![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) (C#)
+- 	![RabbitMQ](https://img.shields.io/badge/RabbitMQ-v3.8-orange?logo=rabbitmq&logoColor=white) (C#)
 
 ### Banco de Dados:
 - ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
