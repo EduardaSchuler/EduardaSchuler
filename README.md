@@ -28,4 +28,4 @@ Atualmente, estou atuando como estagiária de Desenvolvimento Full Stack na
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=EduardaSchuler&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaSchuler&layout=compact)
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=EduardaSchuler)](https://github.com/ryo-ma/github-profile-trophy)
