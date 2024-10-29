@@ -20,10 +20,6 @@ Olá! Eu sou Maria Eduarda Schüler, estudante de **Sistemas de Informação**
 - ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) 
 - ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 
-## 💼 Sobre Meu Trabalho Atual
-Atualmente, estou atuando como estagiária de Desenvolvimento Full Stack na 
-<img src="https://github.com/EduardaSchuler/EduardaSchuler/assets/45366066/13e17119-6cae-4cd7-8525-e4ac83681750" alt="Bem Promotora" width="200">
-
 ## 📊 Minhas Estatísticas no GitHub
 
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=EduardaSchuler&theme=radical)
