@@ -22,6 +22,5 @@ Olá! Eu sou Maria Eduarda Schüler, estudante de **Sistemas de Informação**
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=EduardaSchuler&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardaSchuler&layout=compact)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=EduardaSchuler\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
 [![trophy](https://github-profile-trophy.vercel.app/?username=EduardaSchuler)](https://github.com/ryo-ma/github-profile-trophy)
