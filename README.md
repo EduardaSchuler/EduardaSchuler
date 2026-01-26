@@ -1,3 +1,7 @@
-## this read.me is currently at development... come back in later
+## Read.me currently in progress...
 
-<img src="https://hermes.dio.me/assets/articles/f13f769f-e4e7-4f14-a6f8-9cba2d6ef51f.gif" alt="gif escrevendo no computador" width="300">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicoliOliveira19/NicoliOliveira19/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicoliOliveira19/NicoliOliveira19/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NicoliOliveira19/NicoliOliveira19/output/github-contribution-grid-snake.svg">
+</picture>
